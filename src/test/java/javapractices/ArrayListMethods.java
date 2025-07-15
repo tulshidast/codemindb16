@@ -25,6 +25,7 @@ public class ArrayListMethods {
 		l1.add(5);
 		l1.add(10);
 
+		// adding element by specifying index
 		l1.add(1, 100);
 
 		for (Integer i : l1) {
